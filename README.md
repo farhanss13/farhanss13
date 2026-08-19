@@ -1,136 +1,195 @@
-# Hi, I'm Farhan Saqib 👋
+<div align="center">
 
-### Software Engineer | Full-Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:2E8B8B&height=200&section=header&text=Farhan%20Saqib&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
-I build full-stack web applications and real-world software products, with a focus on clean architecture, scalable backend systems, and practical developer experiences.
+<a href="https://www.linkedin.com/in/farhan-saqib-fs1303">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/farhanss13">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:farhansaqib67@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-My current work spans **Next.js, React, TypeScript, Node.js, PostgreSQL, Supabase, MongoDB, Prisma, and Docker**.
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2E8B8B&center=true&vCenter=true&width=650&lines=Building+ForgeFlow+%E2%80%94+AI-powered+dev+workspace;Full-Stack+Developer+%7C+Next.js+%2F+React+%2F+Node.js;Turning+ideas+into+production-ready+software" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+## 👋 About Me
+
+I'm a **Software Engineer / Full-Stack Developer** based in Lahore, Pakistan, focused on building real-world software products — not just CRUD apps. I care about clean architecture, scalable backend systems, and developer experience that actually feels good to use.
+
+Currently working across **Next.js, React, TypeScript, Node.js, PostgreSQL, Supabase, MongoDB, Prisma,** and **Docker**.
+
+```txt
+const farhan = {
+    role: "Software Engineer | Full-Stack Developer",
+    location: "Lahore, Pakistan",
+    stack: ["Next.js", "React", "TypeScript", "Node.js", "PostgreSQL", "Supabase", "Docker"],
+    currentFocus: "Building ForgeFlow — an AI-powered developer workspace",
+    funFact: "Prefers shipping real products over toy projects 🚀"
+};
+```
+
+<br/>
 
 ## 🚀 What I'm Working On
 
-- 🔨 **[ForgeFlow](https://forge-flow-zeta.vercel.app/)** — Building an AI-powered engineering workspace that brings project planning, milestones, tasks, documentation, and developer workflows into one platform.
-- ⚙️ **Cadence** — Working on a real-world LinkedIn outreach and growth automation platform with a Chrome Extension and web dashboard.
-- 🧩 Exploring modern full-stack architecture, PostgreSQL, Supabase, Docker, TypeScript, and AI-powered developer tooling.
-- 💡 Interested in building software that solves practical problems rather than just implementing basic CRUD applications.
+| Project | Description |
+|---|---|
+| 🔨 **[ForgeFlow](https://forge-flow-zeta.vercel.app/)** | AI-powered engineering workspace unifying planning, tasks, docs, and dev workflows in one platform |
+| ⚙️ **Cadence** | Real-world LinkedIn outreach & growth automation platform — Chrome Extension + web dashboard |
+| 🧩 **Exploring** | Modern full-stack architecture, PostgreSQL, Supabase, Docker, and AI-powered developer tooling |
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" height="40" alt="JavaScript TypeScript HTML CSS" />
-</p>
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-### Frontend
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" height="40" alt="React Next.js Redux Tailwind CSS" />
-</p>
+**Backend & Databases**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 
-### Backend & Databases
+**DevOps & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase,prisma" height="40" alt="Node.js Express MongoDB PostgreSQL Supabase Prisma" />
-</p>
+</div>
 
-### DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman" height="40" alt="Docker Git GitHub Vercel Postman" />
-</p>
-
----
+<br/>
 
 ## 🌟 Featured Projects
 
-### 🔥 [ForgeFlow](https://forge-flow-zeta.vercel.app/)
+<div align="center">
 
-**AI-Powered Engineering Workspace**
+<a href="https://forge-flow-zeta.vercel.app/">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=farhanss13&repo=ForgeFlow&theme=default&title_color=1F4E79&icon_color=2E8B8B&border_color=e4e2e2" />
+</a>
+<a href="https://jat-fyp.vercel.app/">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=farhanss13&repo=Job-Application-Tracker&theme=default&title_color=1F4E79&icon_color=2E8B8B&border_color=e4e2e2" />
+</a>
+<br/>
+<a href="https://blogsphere-frontend-kappa.vercel.app/">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=farhanss13&repo=BlogSphere&theme=default&title_color=1F4E79&icon_color=2E8B8B&border_color=e4e2e2" />
+</a>
 
-A developer-focused platform designed to help move software projects from:
+</div>
 
+> 💡 Pin cards render automatically from your repo names once they exist on GitHub — if a card shows "repo not found," just check the repo name matches exactly (case-sensitive) or star/create it under your account.
+
+### 🔥 [ForgeFlow](https://forge-flow-zeta.vercel.app/) — AI-Powered Engineering Workspace
+
+A developer-focused platform that moves software projects through:
 **Idea → Planning → Milestones → Tasks → Development → Documentation → Progress**
 
-**Built with:**  
-Next.js · TypeScript · PostgreSQL · Supabase · Prisma · Tailwind CSS · shadcn/ui · AI
+`Next.js` `TypeScript` `PostgreSQL` `Supabase` `Prisma` `Tailwind CSS` `shadcn/ui` `AI`
 
 🔗 [Live Demo](https://forge-flow-zeta.vercel.app/)
 
----
+### 📋 [Job Application Tracker](https://jat-fyp.vercel.app/) — Full-Stack Job Application Management System
 
-### 📋 [Job Application Tracker](https://jat-fyp.vercel.app/)
+Final Year Project for tracking job applications through a dashboard-driven interface with authentication, status tracking, filtering, and application history.
 
-**Full-Stack Job Application Management System**
-
-My Final Year Project for managing job applications through a structured, dashboard-driven interface with authentication, status tracking, filtering, and application history.
-
-**Built with:**  
-React · Node.js · Express.js · MongoDB · JWT
+`React` `Node.js` `Express.js` `MongoDB` `JWT`
 
 🔗 [Live Demo](https://jat-fyp.vercel.app/)
 
----
+### 📝 [BlogSphere](https://blogsphere-frontend-kappa.vercel.app/) — Full-Stack Blogging Platform
 
-### 📝 [BlogSphere](https://blogsphere-frontend-kappa.vercel.app/)
+RESTful APIs, modular MVC architecture, JWT authentication, and role-based authorization.
 
-**Full-Stack Blogging Platform**
-
-A full-stack blogging platform with RESTful APIs, modular MVC architecture, JWT authentication, and role-based authorization.
-
-**Built with:**  
-React · Node.js · Express.js · MongoDB · JWT
+`React` `Node.js` `Express.js` `MongoDB` `JWT`
 
 🔗 [Live Demo](https://blogsphere-frontend-kappa.vercel.app/)
 
----
+<br/>
 
 ## 💼 Experience
 
-### Punjab Information Technology Board (PITB)
-
-**Software Development Intern · May – July**
-
+**Software Development Intern** · Punjab Information Technology Board (PITB) · *May – July*
 Worked with the team on a government project, gaining practical experience in a professional software development environment.
 
-### Cadence
+**Full-Stack Developer** · Cadence *(Ongoing)*
+Contributing to a real-world LinkedIn outreach and growth automation platform — Chrome Extension + web dashboard.
 
-**Real-World Product Development**
-
-Contributing to the development of a LinkedIn outreach and growth automation platform consisting of a Chrome Extension and web dashboard.
-
----
+<br/>
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science**  
-Virtual University of Pakistan · 2022–2026
+**Bachelor of Science in Computer Science**
+Virtual University of Pakistan · 2022 – 2026
 
----
+<br/>
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/farhanss13">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/farhan-saqib-fs1303">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
-  </a>
-  <a href="mailto:farhansaqib67@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
-  </a>
-</p>
+<div align="center">
 
-📧 **Email:** [farhansaqib67@gmail.com](mailto:farhansaqib67@gmail.com)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=farhanss13&show_icons=true&theme=default&hide_border=true&title_color=1F4E79&icon_color=2E8B8B&text_color=333333&bg_color=00000000&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanss13&layout=compact&theme=default&hide_border=true&title_color=1F4E79&text_color=333333&bg_color=00000000" />
 
----
+<br/>
 
-## 📊 GitHub Activity
+<img src="https://streak-stats.demolab.com?user=farhanss13&theme=default&hide_border=true&background=00000000&ring=2E8B8B&fire=1F4E79&currStreakLabel=1F4E79" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanss13" alt="Farhan's GitHub Streak" />
-</p>
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=farhanss13&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+> 📌 All stat widgets above pull live from your GitHub account automatically — no setup needed beyond having public activity/repos. If any card looks empty at first, it usually catches up within a day of pushing commits.
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/farhan-saqib-fs1303">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/farhanss13">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:farhansaqib67@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=farhanss13&label=Profile%20Views&color=2E8B8B&style=for-the-badge" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B8B,100:1F4E79&height=100&section=footer" width="100%"/>
