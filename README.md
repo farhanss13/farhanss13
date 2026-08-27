@@ -43,7 +43,6 @@ const farhan = {
 | Project | Description |
 |---|---|
 | 🔨 **[ForgeFlow](https://forge-flow-zeta.vercel.app/)** | AI-powered engineering workspace unifying planning, tasks, docs, and dev workflows in one platform |
-| ⚙️ **Cadence** | Real-world LinkedIn outreach & growth automation platform — Chrome Extension + web dashboard |
 | 🧩 **Exploring** | Modern full-stack architecture, PostgreSQL, Supabase, Docker, and AI-powered developer tooling |
 
 <br/>
