@@ -138,9 +138,6 @@ RESTful APIs, modular MVC architecture, JWT authentication, and role-based autho
 **Software Development Intern** · Punjab Information Technology Board (PITB) · *May – July*
 Worked with the team on a government project, gaining practical experience in a professional software development environment.
 
-**Full-Stack Developer** · Cadence *(Ongoing)*
-Contributing to a real-world LinkedIn outreach and growth automation platform — Chrome Extension + web dashboard.
-
 <br/>
 
 ## 🎓 Education
