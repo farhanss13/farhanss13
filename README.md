@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header(1).svg" width="100%" alt="Farhan Saqib - Software Engineer | Full-Stack & Flutter Developer"/>
+<img src="./header (1).svg" width="100%" alt="Farhan Saqib - Software Engineer | Full-Stack & Flutter Developer"/>
 
 <br/>
 
@@ -260,4 +260,4 @@ I'm always happy to talk about software engineering, full-stack and mobile devel
 
 </div>
 
-<img src="./footer(1).svg" width="100%" alt=""/>
+<img src="./footer (1).svg" width="100%" alt=""/>
