@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:2E8B8B&height=210&section=header&text=Farhan%20Saqib&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Flutter%20Developer&descAlignY=58&descSize=20" width="100%" alt="Farhan Saqib - Software Engineer | Full-Stack & Flutter Developer"/>
+<img src="./header.svg" width="100%" alt="Farhan Saqib - Software Engineer | Full-Stack & Flutter Developer"/>
+
+<br/>
 
 <a href="https://www.linkedin.com/in/farhan-saqib-fs1303">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,7 +19,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2E8B8B&center=true&vCenter=true&width=700&lines=Software+Developer+%40+9T5+Pty+Ltd;Building+ForgeFlow+%E2%80%94+an+AI-powered+developer+workspace;Next.js+%7C+React+%7C+Node.js+%7C+Flutter+%7C+TypeScript;Turning+ideas+into+production-ready+software" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=20A4A0&center=true&vCenter=true&width=700&lines=Software+Developer+%40+9T5+Pty+Ltd;Building+ForgeFlow+%E2%80%94+an+AI-powered+developer+workspace;Next.js+%7C+React+%7C+Node.js+%7C+Flutter+%7C+TypeScript;Turning+ideas+into+production-ready+software" alt="Typing SVG"/>
 
 <br/>
 
@@ -258,4 +260,4 @@ I'm always happy to talk about software engineering, full-stack and mobile devel
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B8B,100:1F4E79&height=110&section=footer" width="100%" alt=""/>
+<img src="./footer.svg" width="100%" alt=""/>
